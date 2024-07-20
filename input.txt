@@ -1,0 +1,20 @@
+T1: apple, orange, banana, mango, papaya
+T2: apple, banana, grape, guava,papaya
+T3: orange, banana, pineapple, papaya
+T4: apple, orange, guava, mango
+T5: banana, grape, pineapple, papaya
+T6: apple, grape, pineapple
+T7: apple, orange, pineapple, mango, kiwi, papaya
+T8: banana, grape, blueberry, papaya
+T9: apple, banana, grape, pineapple, cherry, papaya
+T10: apple, orange, banana, papaya
+T11: orange, pineapple, kiwi, blueberry, papaya
+T12: apple, grape, watermelon, papaya
+T13: apple, orange, grape, papaya
+T14: banana, pineapple, plum
+T15: apple, pineapple, jackfruit, plum, papaya
+T16: orange, banana, guava, papaya
+T17: apple, grape, pineapple, papaya
+T18: orange, grape, mango, papaya
+T19: apple, banana, papaya
+T20: banana, pineapple, pear, papaya
